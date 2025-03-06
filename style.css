@@ -1,4 +1,6 @@
 body{
+    height: 100vh;
+    box-sizing: border-box;
     background-color: rgb(138, 195, 195);
     color: rgb(98, 98, 210);
 }
@@ -13,4 +15,12 @@ color: rgb(192, 73, 13);
 
 .outra-cor {
     color: rgb(143, 4, 4);
+}
+
+.apresentacao {
+    margin: 20%;
+}
+
+.apresentacao__texto{
+    font-size: 22px;
 }
